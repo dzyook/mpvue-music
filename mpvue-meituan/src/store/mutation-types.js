@@ -1,0 +1,11 @@
+export const SET_PLAYING_STATE = 'SET_PLAYING_STATE'
+
+export const SAVE_DETAIL_STATE = 'SAVE_DETAIL_STATE'
+
+export const SAVE_SONGLIST = 'SAVE_SONGLIST'
+
+export const SAVE_MIDIMG2= 'SAVE_MIDIMG2'
+
+export const SAVE_MIDIMG3= 'SAVE_MIDIMG3'
+
+export const SAVE_SONG= 'SAVE_SONG'
